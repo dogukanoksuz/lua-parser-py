@@ -1,0 +1,11 @@
+'''
+
+DOGUKAN.DEV NPCDATA.LUA PARSER
+
+TXT'YE EXPORT ALMAK İÇİN:
+python main.py <NPCData.lua> <Output Alacağınız Txt Adı> export
+
+TXT'DEN YENİ BİR LUA OLUŞTURMAK İÇİN:
+python main.py <NPCData.lua> <Output Txtnizin Adı> import <Final.lua>
+
+'''
